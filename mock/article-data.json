@@ -1,3 +1,193 @@
-{
-  "name": "TODO - Some JSON data here"
-}
+[
+  {
+    "title": "AAAAA",
+    "url": "https://devopedia.org/example-one",
+    "authors": [
+      "jsmith",
+      "ryadav"
+    ],
+    "publishedTime": "2019-09-21T12:20:44+00:00",
+    "modifiedTime": "2019-10-04T09:11:12+00:00",
+    "featuredImg": "https://devopedia.org/link-to-img",
+    "summary": "Summary of article appears here",
+    "discussion": [
+      {
+        "question": "Some question here?",
+        "answer": "Some answer here"
+      },
+      {
+        "question": "Another question here?",
+        "answer": "Another answer here"
+      }
+    ],
+    "milestones": [
+      {
+        "monthYear": "Jun 2009",
+        "description": "Some description here"
+      }
+    ],
+    "tags": [
+      "some tag",
+      "another tag"
+    ],
+    "seeAlso": [
+      "AASAA",
+      "BAGAM",
+      "DAQAR",
+      "RBQBD",
+      "CCCCC"
+    ]
+  },
+  {
+    "title": "AASAA",
+    "url": "https://devopedia.org/example-one",
+    "authors": [
+      "jsmith",
+      "ryadav"
+    ],
+    "publishedTime": "2019-09-21T12:20:44+00:00",
+    "modifiedTime": "2019-10-04T09:11:12+00:00",
+    "featuredImg": "https://devopedia.org/link-to-img",
+    "summary": "Summary of article appears here",
+    "discussion": [
+      {
+        "question": "Some question here?",
+        "answer": "Some answer here"
+      },
+      {
+        "question": "Another question here?",
+        "answer": "Another answer here"
+      }
+    ],
+    "milestones": [
+      {
+        "monthYear": "Jun 2009",
+        "description": "Some description here"
+      }
+    ],
+    "tags": [
+      "some tag",
+      "another tag"
+    ],
+    "seeAlso": [
+      "MAKAA",
+      "BAGAL",
+      "QACAR",
+      "ACBAC"
+    ]
+  },
+  {
+    "title": "QACAR",
+    "url": "https://devopedia.org/example-one",
+    "authors": [
+      "jsmith",
+      "ryadav"
+    ],
+    "publishedTime": "2019-09-21T12:20:44+00:00",
+    "modifiedTime": "2019-10-04T09:11:12+00:00",
+    "featuredImg": "https://devopedia.org/link-to-img",
+    "summary": "Summary of article appears here",
+    "discussion": [
+      {
+        "question": "Some question here?",
+        "answer": "Some answer here"
+      },
+      {
+        "question": "Another question here?",
+        "answer": "Another answer here"
+      }
+    ],
+    "milestones": [
+      {
+        "monthYear": "Jun 2009",
+        "description": "Some description here"
+      }
+    ],
+    "tags": [
+      "some tag",
+      "another tag"
+    ],
+    "seeAlso": [
+      "AASAA",
+      "LAGAM",
+      "DALAM",
+      "ZBWBJ"
+    ]
+  },
+  {
+    "title": "BAGAM",
+    "url": "https://devopedia.org/example-one",
+    "authors": [
+      "jsmith",
+      "ryadav"
+    ],
+    "publishedTime": "2019-09-21T12:20:44+00:00",
+    "modifiedTime": "2019-10-04T09:11:12+00:00",
+    "featuredImg": "https://devopedia.org/link-to-img",
+    "summary": "Summary of article appears here",
+    "discussion": [
+      {
+        "question": "Some question here?",
+        "answer": "Some answer here"
+      },
+      {
+        "question": "Another question here?",
+        "answer": "Another answer here"
+      }
+    ],
+    "milestones": [
+      {
+        "monthYear": "Jun 2009",
+        "description": "Some description here"
+      }
+    ],
+    "tags": [
+      "some tag",
+      "another tag"
+    ],
+    "seeAlso": [
+      "QAUAI",
+      "QUACAR",
+      "DAQAH",
+      "IBLBL",
+      "BCBBC"
+    ]
+  },
+  {
+    "title": "DAQAR",
+    "url": "https://devopedia.org/example-one",
+    "authors": [
+      "jsmith",
+      "ryadav"
+    ],
+    "publishedTime": "2019-09-21T12:20:44+00:00",
+    "modifiedTime": "2019-10-04T09:11:12+00:00",
+    "featuredImg": "https://devopedia.org/link-to-img",
+    "summary": "Summary of article appears here",
+    "discussion": [
+      {
+        "question": "Some question here?",
+        "answer": "Some answer here"
+      },
+      {
+        "question": "Another question here?",
+        "answer": "Another answer here"
+      }
+    ],
+    "milestones": [
+      {
+        "monthYear": "Jun 2009",
+        "description": "Some description here"
+      }
+    ],
+    "tags": [
+      "some tag",
+      "another tag"
+    ],
+    "seeAlso": [
+      "AASAA",
+      "WAUAF",
+      "DALAM",
+    ]
+  }
+]
