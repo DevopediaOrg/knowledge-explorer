@@ -1,0 +1,25 @@
+{
+  "name": "knowledge-explorer",
+  "version": "1.0.0",
+  "description": "Knowledge Explorer project for Hacktoberfest conducted by Devopedia.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevopediaOrg/knowledge-explorer.git"
+  },
+  "keywords": [
+    "Hacktoberfest"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevopediaOrg/knowledge-explorer/issues"
+  },
+  "homepage": "https://github.com/DevopediaOrg/knowledge-explorer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
