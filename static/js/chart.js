@@ -1,8 +1,15 @@
-  const mockData = MOCK_DATA;
+  let mockData = MOCK_DATA;
   const nodesGenerated = [];
   const nodes = []
   const linskGenerated = [];
   const links = []
+
+  /**
+   * Fetch the articles JSON data
+   */
+  // fetch("mock/article-data.json")
+  // .then(res => res.json())
+  // .then(data => mockData = data)
 
   /**
    * Parse the data to generate nodes and links between nodes.
@@ -26,7 +33,7 @@
     link.source = articleData.title;
     articleData.seeAlso.forEach(target => {
       link.target = target;
-      link.strength = 0.5;
+      link.strength = 0.01;
       if (linskGenerated.indexOf(target + articleData.title) < 0) {
         link.strength *= 2;
       }
@@ -73,7 +80,7 @@
   }
 
   var width = window.innerWidth
-  var height = window.innerHeight / 2;
+  var height = window.innerHeight;
   var svg = d3.select('svg')
   svg.attr('width', width).attr('height', height)
   // simulation setup with all forces
