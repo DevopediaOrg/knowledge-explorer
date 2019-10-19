@@ -1,6 +1,6 @@
 [
   {
-    "title": "AAAAA",
+    "title": "FLASK",
     "url": "https://devopedia.org/example-one",
     "authors": [
       "jsmith",
@@ -31,15 +31,15 @@
       "another tag"
     ],
     "seeAlso": [
-      "AASAA",
-      "BAGAM",
-      "DAQAR",
-      "RBQBD",
-      "CCCCC"
+      "PYTHON WEB FRAMEWORKS",
+      "DJANGO",
+      "JINJA",
+      "SQLITE",
+      "SQLALCHEMY"
     ]
   },
   {
-    "title": "AASAA",
+    "title": "DJANGO",
     "url": "https://devopedia.org/example-one",
     "authors": [
       "jsmith",
@@ -70,14 +70,15 @@
       "another tag"
     ],
     "seeAlso": [
-      "MAKAA",
-      "BAGAL",
-      "QACAR",
-      "ACBAC"
+      "FLASK",
+      "PYTHON WEB FRAMEWORKS",
+      "DJANGO ORM",
+      "POSTGRESQL",
+      "PYTHON TEMPLATE ENGINES"
     ]
   },
   {
-    "title": "QACAR",
+    "title": "PYTHON",
     "url": "https://devopedia.org/example-one",
     "authors": [
       "jsmith",
@@ -108,14 +109,16 @@
       "another tag"
     ],
     "seeAlso": [
-      "AASAA",
-      "LAGAM",
-      "DALAM",
-      "ZBWBJ"
+      "PYTHON DATA STRUCTURES",
+      "PYTHON 2 V 3",
+      "PYTHON DISTRIBUTIONS AND PACKAGING",
+      "DATA SCIENCE",
+      "NUMPY",
+      "SCIKIT-LEARN"
     ]
   },
   {
-    "title": "BAGAM",
+    "title": "DATA SCIENCE",
     "url": "https://devopedia.org/example-one",
     "authors": [
       "jsmith",
@@ -146,15 +149,15 @@
       "another tag"
     ],
     "seeAlso": [
-      "QAUAI",
-      "QUACAR",
-      "DAQAH",
-      "IBLBL",
-      "BCBBC"
+      "MACHINE LEARNING",
+      "DATA ENGINEERING",
+      "BIG DATA",
+      "EXPLORATORY DATA ANALYSIS",
+      "REGRESSION MODELLING"
     ]
   },
   {
-    "title": "DAQAR",
+    "title": "MACHINE LEARNING",
     "url": "https://devopedia.org/example-one",
     "authors": [
       "jsmith",
@@ -185,13 +188,13 @@
       "another tag"
     ],
     "seeAlso": [
-      "AASAA",
-      "WAUAF",
-      "DALAM"
+      "DATA SCIENCE",
+      "REGRESSION MODELLING",
+      "ARTIFICIAL NEURAL NETWORKS"
     ]
   },
   {
-    "title": "BBBBB",
+    "title": "REGRESSION MODELLING",
     "url": "https://devopedia.org/example-one",
     "authors": [
       "jsmith",
@@ -222,14 +225,14 @@
       "another tag"
     ],
     "seeAlso": [
-      "RBQBD",
-      "XBYBN",
-      "TBKBH",
-      "AASAA"
+      "MACHINE LEARNING",
+      "ANALYSIS OF VARIANCE",
+      "LEAST SQUARES",
+      "STATISTICS"
     ]
   },
   {
-    "title": "RBQBD",
+    "title": "PYTHON DATA STRUCTURES",
     "url": "https://devopedia.org/example-one",
     "authors": [
       "jsmith",
@@ -260,10 +263,10 @@
       "another tag"
     ],
     "seeAlso": [
-      "BBBBB",
-      "ZBWBJ",
-      "IBLBA",
-      "DCBDC"
+      "PYTHON",
+      "DATA STRUCTURES",
+      "NUMPY",
+      "PANDAS"
     ]
   },
   {
