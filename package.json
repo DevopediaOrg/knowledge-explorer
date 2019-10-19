@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ikmrgrv/knowledge-explorer.git"
+    "url": "git+https://github.com/DevopediaOrg/knowledge-explorer.git"
   },
   "keywords": [
     "Hacktoberfest"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ikmrgrv/knowledge-explorer/issues"
   },
