@@ -6,19 +6,55 @@ body{
     font-family: 'Glyphicons Halflings';
     content: "\e114";   
     float: right;        
-    color: #ffffff;      
+    color: #ffffff;  
 }
  
 .panel-heading .colpsible-panel.collapsed:after {
-     content: "\e080";
- }  
+    content: "\e080";
+}  
 
 .well {
     color: rgb(255, 255, 255);
     background-color: rgb(188, 14, 241);
     border-color: rgb(211, 157, 228);
-} 
+    padding: 4px 10px 10px;
+    text-align: center;
+}
 
+.btn {
+    position: relative;
+
+    color: #FFFFFF;
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.btn:after {
+    content: "";
+    background: rgb(255, 255, 255);
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.btn:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+}
+  
 .box-shadow-demo {
     box-shadow: 10px 10px 15px rgb(211, 157, 228);
     border-radius: 6px;
@@ -28,10 +64,20 @@ body{
     color: rgb(255, 255, 255);
     background-color: rgb(188, 14, 241);
     border-color: rgb(211, 157, 228);
+    
 } 
-
+ 
 .bg_purple {
     color: rgb(255, 255, 255);
     background-color: rgb(188, 14, 241);
     border-color: rgb(211, 157, 228);
 }
+
+.animate-right{position:relative;animation:animateright 0.4s}
+
+@keyframes animateright{from{right:-300px;opacity:0} to{right:0;opacity:1}}
+
+.animate-left{position:relative;animation:animateleft 0.6s}
+
+@keyframes animateleft{from{left:-300px;opacity:0} to{left:0;opacity:1}}
+
